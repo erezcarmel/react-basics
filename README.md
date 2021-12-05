@@ -1,6 +1,6 @@
 # React basics
 
-A simple React based Todo list app, written in Javascript.
+A simple React based Todo list app, written in Typescript.
 
 ### Components:
 
