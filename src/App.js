@@ -1,8 +1,10 @@
-import React from "react";
+import TodoApp from "./components/TodoApp";
 import "./styles.css";
 
 export default () => {
   return (
-    <div className="app"></div>
+    <div className="app">
+      <TodoApp />
+    </div>
   );
 };
